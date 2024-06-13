@@ -1,0 +1,16 @@
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Homework9.exe
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Homework9.deps.json
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Homework9.runtimeconfig.json
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Homework9.runtimeconfig.dev.json
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Homework9.dll
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Homework9.pdb
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Valery\source\repos\Homework9\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.csproj.AssemblyReference.cache
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.AssemblyInfoInputs.cache
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.AssemblyInfo.cs
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.csproj.CopyComplete
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.dll
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.pdb
+C:\Users\Valery\source\repos\Homework9\obj\Debug\netcoreapp3.1\Homework9.genruntimeconfig.cache
