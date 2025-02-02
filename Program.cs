@@ -15,7 +15,7 @@ namespace Homework9
 {
     class Program
     {
-        static readonly TelegramBotClient bot = new TelegramBotClient("1906948226:AAFS5zRKFPCqdfRS_32bSa4e66Uw0XogGbQ");
+        static readonly TelegramBotClient bot = new TelegramBotClient("TOKEN_HERE");
         static List<Message> ms = new List<Message>();
 
         static void Main()
